@@ -1,0 +1,10 @@
+cloud_pod_db slcai506 oracle oracle123 /home/oracle/installer /home/oracle/installer/upgrade_config
+cloud_pod_ohs1 slce10vmf0003 oracle oracle /home/oracle/installer/ /home/oracle/installer/upgrade_config ha132_apex_ohs
+cloud_pod_ohs1 slce10vmf0004 oracle oracle /home/oracle/installer/ /home/oracle/installer/upgrade_config ha132_apex_ohs
+cloud_pod_wls slcn11vmf0005 oracle oracle /u01/shared/installer /u01/shared/installer/upgrade_config
+cloud_dc_db slcai506 oracle oracle123 /home/oracle/installer /home/oracle/installer/upgrade_config
+cloud_dc_ohs1 slce10vmf0001 oracle oracle /home/oracle/installer /home/oracle/installer/upgrade_config ha132_cldadmininternal_ohs
+cloud_dc_ohs2 slce10vmf0002 oracle oracle /home/oracle/installer /home/oracle/installer/upgrade_config ha132_cldadmininternal_ohs
+cloud_central_db slcai506 oracle oracle123 /home/oracle/installer /home/oracle/installer/upgrade_config
+cloud_central_ohs1 slce10vmf0001 oracle oracle /home/oracle/installer /home/oracle/installer/upgrade_config ha132_cloudadmin_ohs
+cloud_central_ohs2 slce10vmf0002 oracle oracle /home/oracle/installer /home/oracle/installer/upgrade_config ha132_cloudadmin_ohs

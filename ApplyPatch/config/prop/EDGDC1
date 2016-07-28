@@ -1,0 +1,7 @@
+cloud_pod_ohs2 slce27vmf1017 oracle oracle /home/oracle/installer /home/oracle/installer/upgrade_config
+cloud_dc_db slcm07dbadm01 oracle welcome1 /home/oracle/installer /home/oracle/installer/upgrade_config
+cloud_dc_ohs1 slce27vmf1004 oracle cloudportal_qa /home/oracle/installer /home/oracle/installer/upgrade_config
+cloud_dc_ohs2 slcn06vmf0005 oracle cloudportal_qa /home/oracle/installer /home/oracle/installer/upgrade_config
+cloud_central_db slcm07dbadm01 oracle welcome1 /home/oracle/installer /home/oracle/installer/upgrade_config
+cloud_central_ohs1 slce27vmf1008 oracle cloudportal_qa /home/oracle/installer /home/oracle/installer/upgrade_config
+cloud_central_ohs2 slce27vmf1009 oracle cloudportal_qa /home/oracle/installer /home/oracle/installer/upgrade_config
