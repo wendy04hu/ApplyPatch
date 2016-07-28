@@ -21,7 +21,7 @@ def initLoggerWithRotate():
 
 def get_hosts_list(component, envname):
     hosts_map={}
-    f = open(("./config/%s" % envname), "r")
+    f = open(("./config/prop/%s" % envname), "r")
     for line in f:
         line=line.split()
         if(len(line) != 0):
